@@ -1,3 +1,4 @@
+![logo](https://github.com/tech-shivendra/tech-shivendraa/blob/main/Heading.png)
 <h1 align="center">Hi 👋, I'm Shiv</h1>
 <h3 align="center">Co-founder of Flexrra</h3>
 
